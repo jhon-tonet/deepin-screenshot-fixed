@@ -1,11 +1,12 @@
 [Desktop Entry]
-Categories=Graphics;GTK;
+Categories=Graphics;GTK;Utility;System;
 Comment=Screen capturing application
-Exec=deepin-turbo-invoker --type=dtkwidget deepin-screenshot --icon
+#Exec=deepin-turbo-invoker --type=dtkwidget deepin-screenshot --icon
+Exec=deepin-screenshot
 GenericName=Screenshot
 Icon=deepin-screenshot
 Name=Deepin Screenshot
-StartupNotify=false
+StartupNotify=true
 Type=Application
 X-Deepin-ManualID=deepin-screenshot
 X-Deepin-Vendor=deepin
