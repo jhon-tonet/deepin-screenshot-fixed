@@ -1,6 +1,6 @@
 # Deepin Screenshot Copy to Clipboard function fixed!
 
-The correction was maded based on https://github.com/linuxdeepin/deepin-screenshot/ version but how this repository was archived, I create this new to share this.<br /><br />
+The correction was made based on https://github.com/linuxdeepin/deepin-screenshot/ version but how this repository was archived, I create this new to share this.<br /><br />
 
 The code was extracted from https://gist.github.com/msenol86/c0c7daad3de32a7922486e5d669f24c6 arch solution that consists in change mainwindow.cpp file.
 
